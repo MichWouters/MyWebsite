@@ -10,11 +10,19 @@ img {
     background-color: red;
 }
 
+img:hover {
+    background-color: yellow;
+}
+
 
 /*  Class Selectors*/
 
 .bacon {
     background-color: green;
+}
+
+.bacon:hover {
+    background-color: pink;
 }
 
 .broccoli {
